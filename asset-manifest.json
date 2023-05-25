@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.22afad21.css",
-    "main.js": "/static/js/main.2feeb35c.js",
+    "main.js": "/static/js/main.3d2c7c4d.js",
     "static/media/pythonbasic_hr.png": "/static/media/pythonbasic_hr.5b7efd53db0230e4d61a.png",
     "static/media/java_udemy.png": "/static/media/java_udemy.c3127fa9f48f1bf81ba3.png",
     "static/media/python_udemy.png": "/static/media/python_udemy.bc0eacd0c17eca5dd9bc.png",
@@ -25,10 +25,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.22afad21.css.map": "/static/css/main.22afad21.css.map",
-    "main.2feeb35c.js.map": "/static/js/main.2feeb35c.js.map"
+    "main.3d2c7c4d.js.map": "/static/js/main.3d2c7c4d.js.map"
   },
   "entrypoints": [
     "static/css/main.22afad21.css",
-    "static/js/main.2feeb35c.js"
+    "static/js/main.3d2c7c4d.js"
   ]
 }
